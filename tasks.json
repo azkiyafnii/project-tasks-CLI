@@ -1,0 +1,16 @@
+[
+  {
+    "id": null,
+    "description": "beli jajan",
+    "status": "todo",
+    "created_at": "2026-01-21T10:13:31.193Z",
+    "updated_at": "2026-01-21T10:13:31.193Z"
+  },
+  {
+    "id": 1,
+    "description": "buy groceries and cook dinner",
+    "status": "done",
+    "created_at": "2026-01-21T10:16:29.673Z",
+    "updated_at": "2026-01-21T10:17:35.426Z"
+  }
+]
