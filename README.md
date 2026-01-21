@@ -1,11 +1,12 @@
-#Task Tracker CLI
+# Task Tracker CLI
 
 Task Tracker CLI adalah aplikasi berbasis Command Line Interface (CLI) sederhana yang digunakan untuk mencatat dan mengelola daftar tugas (todo list).  
 Aplikasi ini dibuat menggunakan **JavaScript (Node.js)** dan menyimpan data ke dalam file **JSON** tanpa menggunakan library eksternal.
+https://roadmap.sh/projects/task-tracker
 
 ---
 
-##Fitur
+## Fitur
 
 - Menambahkan task baru
 - Melihat semua task
@@ -18,7 +19,7 @@ Aplikasi ini dibuat menggunakan **JavaScript (Node.js)** dan menyimpan data ke d
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 - Node.js (JavaScript)
 - File System bawaan Node.js (`fs`)
@@ -26,9 +27,9 @@ Aplikasi ini dibuat menggunakan **JavaScript (Node.js)** dan menyimpan data ke d
 
 ---
 
-##Insalasi & Menjalankan Program
+## Insalasi & Menjalankan Program
 
-###Pastikan Node.js sudah terinstall
+### Pastikan Node.js sudah terinstall
 
 Cek dengan:
 
